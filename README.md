@@ -1,6 +1,7 @@
 # React Weather App
 This is a web app developed as a assignment using React.js. It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the SheCodes Weather API.
 
+![Screenshot 2024-06-13 232642](https://github.com/mohitrathore7/Weather-Forecasting-IISC-ASSIGNMENT/assets/95867522/88b83091-3b20-46eb-9a7f-7204b9127650)
 
 
 # Features
